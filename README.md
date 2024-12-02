@@ -1,5 +1,3 @@
-## Note!!! Our code is now open source🎉 and available at: https://github.com/AMD-AIG-AIMA/DoSSR.
-
 <p align="center">
     <img src=".\assets\dossr_logo.jpg" style="width:50%; height:auto;">
 </p>
