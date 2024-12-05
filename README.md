@@ -9,6 +9,7 @@
 
 ## :date: Update
 2024.11.26: Our code is now open source🎉 and available.
+2024.09.36: [Our paper](https://arxiv.org/pdf/2409.17778) is accepted by NeurIPS
 
 ## :mag_right: Visual Results on Real-World Super-Resolution
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
