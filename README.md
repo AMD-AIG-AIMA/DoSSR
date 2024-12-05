@@ -2,14 +2,14 @@
     <img src=".\assets\dossr_logo.jpg" style="width:50%; height:auto;">
 </p>
 
-## [NeurIPS 2024] DoSSR: Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
+## [NeurIPS 2024] [DoSSR: Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs](https://arxiv.org/pdf/2409.17778)
 <div style="display: flex; justify-content: space-between;"> 
   <img src=".\assets\pipeline.jpg" style="width: 100%;"> 
 </div>
 
 ## :date: Update
-2024.11.26: Our code is now open source🎉 and available.
-2024.09.36: [Our paper](https://arxiv.org/pdf/2409.17778) is accepted by NeurIPS
+2024.11.26: Our code is now open source🎉 and available .
+
 
 ## :mag_right: Visual Results on Real-World Super-Resolution
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 100%;">
