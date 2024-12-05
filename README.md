@@ -98,6 +98,8 @@ python scripts/train.py --config configs/train_cldm.yaml
 ## :smiling_face_with_three_hearts: Acknowledgement
 Our code is based on [DiffBIR](https://github.com/XPixelGroup/DiffBIR) .Thanks for their awesome work.
 
+## 📧 Contact
+If you have any questions, please feel free to contact: `qinpeng.cui@amd.com`, `yixuanl@amd.com`
 
 ## :pencil: Citation
 If you find this method and/or code useful, please consider citing
